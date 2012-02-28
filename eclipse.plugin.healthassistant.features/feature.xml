@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="eclipse.plugin.healthassistant.features"
+      label="healthassistant.Features"
+      version="1.0.1"
+      provider-name="nileader"
+      plugin="eclipse.plugin.healthassistant"
+      os="linux,win32"
+      ws="win32">
+
+   <description url="http://code.google.com/a/eclipselabs.org/p/health-assistant/">
+      这是一个用来提醒广大使用Eclipse使用开发工具的程序员,关心自己的身体.不要长时间对着电脑的Eclipse插件.是我个人业余搞的玩意.和任何公司或组织无关.
+   </description>
+
+   <copyright url="http://code.google.com/a/eclipselabs.org/p/health-assistant/">
+      Copyright (c) 2011 by nileader
+   </copyright>
+
+   <license url="http://code.google.com/a/eclipselabs.org/p/health-assistant/">
+      Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0
+   </license>
+
+   <url>
+      <discovery label="官方主页" url="http://code.google.com/a/eclipselabs.org/p/health-assistant/"/>
+   </url>
+
+   <plugin
+         id="eclipse.plugin.healthassistant"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

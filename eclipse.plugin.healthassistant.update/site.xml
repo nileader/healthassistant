@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="官方主页" url="http://code.google.com/a/eclipselabs.org/p/health-assistant/">
+      官方主页
+   </description>
+   <feature url="features/eclipse.plugin.healthassistant.features_1.0.1.jar" id="eclipse.plugin.healthassistant.features" version="1.0.1" os="linux,win32" ws="win32">
+      <category name="eclipse.plugin.healthassistant.update"/>
+   </feature>
+   <category-def name="eclipse.plugin.healthassistant.update" label="healthassistant"/>
+</site>

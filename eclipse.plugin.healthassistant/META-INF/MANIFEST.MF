@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HealthAssistant
+Bundle-SymbolicName: eclipse.plugin.healthassistant;singleton:=true
+Bundle-Version: 1.0.1
+Bundle-Activator: eclipse.plugin.healthassistant.Activator
+Bundle-Vendor: nileader
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
